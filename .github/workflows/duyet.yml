@@ -1,0 +1,29 @@
+name: duyet
+# 20:02 -> 23:47 gio VN, 15 phut/lan: gui nhap, nhan nut Duyet / Lam bai khac, tu duyet sau 1 gio.
+on:
+  schedule:
+    - cron: "2,17,32,47 13-16 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: duyet
+  cancel-in-progress: false
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_GROUP_ID: ${{ secrets.TELEGRAM_GROUP_ID }}
+      TELEGRAM_REVIEW_CHAT_ID: ${{ secrets.TELEGRAM_REVIEW_CHAT_ID }}
+      REVIEWERS: ${{ secrets.REVIEWERS }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/review.py tick
+      - run: scripts/commit.sh "duyet - cap nhat"

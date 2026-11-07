@@ -1,0 +1,94 @@
+name: soan-bai
+# 19:07 gio VN moi ngay: soan 2 bai cho ngay mai. Goi lai (workflow_dispatch) khi bai bi tu choi.
+on:
+  schedule:
+    - cron: "7 12 * * *"
+  workflow_dispatch:
+    inputs:
+      date: {description: "Ngay dang (YYYY-MM-DD), de trong = ngay mai", required: false, default: ""}
+      slots: {description: "Bai can soan", required: false, default: "1,2"}
+      avoid: {description: "Tieu de can tranh", required: false, default: ""}
+
+permissions:
+  contents: write
+  actions: write
+  id-token: write
+
+concurrency:
+  group: soan-bai
+  cancel-in-progress: false
+
+env:
+  TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+  TELEGRAM_GROUP_ID: ${{ secrets.TELEGRAM_GROUP_ID }}
+  TELEGRAM_REVIEW_CHAT_ID: ${{ secrets.TELEGRAM_REVIEW_CHAT_ID }}
+  REVIEWERS: ${{ secrets.REVIEWERS }}
+  GH_TOKEN: ${{ github.token }}
+
+jobs:
+  soan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Xac dinh ngay va bai can soan
+        id: p
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import datetime as dt, json, pathlib, os
+          vn = dt.datetime.now(dt.timezone(dt.timedelta(hours=7)))
+          date = "${{ inputs.date }}" or (vn + dt.timedelta(days=1)).strftime('%Y-%m-%d')
+          slots = "${{ inputs.slots }}" or "1,2"
+          st = pathlib.Path(f'state/{date}.json')
+          if "${{ github.event_name }}" == 'schedule' and st.exists():
+              s = json.loads(st.read_text())
+              slots = ','.join(k for k, v in s['posts'].items() if v['status'] == 'new')
+          print(f'date={date}'); print(f'slots={slots}')
+          PY
+          cat "$GITHUB_OUTPUT"
+
+      - name: Cai trinh duyet va font de ve infographic
+        if: steps.p.outputs.slots != ''
+        run: |
+          pip install -q playwright
+          python3 -m playwright install --with-deps chromium >/dev/null
+          sudo apt-get install -y -q fonts-noto-cjk >/dev/null
+          mkdir -p ~/.local/share/fonts && cp tool/fonts/*.otf ~/.local/share/fonts/ && fc-cache -f >/dev/null
+
+      - name: Claude soan bai
+        if: steps.p.outputs.slots != ''
+        id: claude
+        continue-on-error: true
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          github_token: ${{ github.token }}
+          allowed_bots: "*"
+          prompt: "/soan-bai NGAY=${{ steps.p.outputs.date }} BAI=${{ steps.p.outputs.slots }} TRANH=${{ inputs.avoid }}"
+          claude_args: |
+            --max-turns 90
+            --allowedTools "Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,Bash(python3 tool/render.py:*)"
+
+      - name: Kiem tra bai, loi thi dung bai du phong
+        if: steps.p.outputs.slots != ''
+        run: |
+          D=${{ steps.p.outputs.date }}; S=${{ steps.p.outputs.slots }}
+          python3 scripts/check.py "$D" "$S" > fails.txt; cat fails.txt
+          if [ "${{ steps.claude.outcome }}" != "success" ]; then
+            python3 -c "import sys; sys.path.insert(0,'scripts'); import review; review.notify('⚠️ Claude soạn bài ngày $D bị lỗi (có thể hết lượt dùng hoặc mã đăng nhập hết hạn). Hệ thống dùng bài dự phòng nếu bài chưa đạt.')"
+          fi
+          ok=""
+          for s in ${S//,/ }; do
+            reason=$(awk -F'\t' -v s="$s" '$1==s{print $2}' fails.txt)
+            if [ -n "$reason" ]; then python3 scripts/review.py fallback "$D" "$s" "$reason"; else ok="$ok,$s"; fi
+          done
+          [ -n "${ok#,}" ] && python3 scripts/review.py mark-ready "$D" "${ok#,}"
+          rm -f fails.txt
+          scripts/commit.sh "soan bai $D ($S)"
+
+      - name: Gui ban nhap neu da toi gio duyet
+        if: steps.p.outputs.slots != ''
+        run: |
+          python3 scripts/review.py tick
+          scripts/commit.sh "duyet: cap nhat"

@@ -1,0 +1,14 @@
+{"badge":"ÁP DỤNG 12/2026",
+ "kicker":"ĐIỀU CHỈNH THUẾ CUỐI NĂM · NENMATSU CHŌSEI",
+ "title_html":["Điều chỉnh thuế 2026","<span class='y'>có 3 điểm mới</span>"],
+ "title_size":86,
+ "stats":[["104 man","khấu trừ cơ bản tối đa (trước 95 man)"],["74 man","khấu trừ lương tối thiểu (trước 65 man)"],["136 man","lương năm tối đa của người phụ thuộc"]],
+ "tables":[{"h":["MỤC","TRƯỚC → NĂM 2026"],"kw":330,"rows":[
+   ["Khấu trừ cơ bản","Tối đa 95 man → 104 man (thu nhập ≤132 man)"],
+   ["Khấu trừ thu nhập lương","Tối thiểu 65 man → 74 man"],
+   ["Người phụ thuộc","Lương năm ≤123 man → ≤136 man"],
+   ["Sinh viên đi làm","Lương năm ≤150 man → ≤163 man"]]}],
+ "note":"**Áp dụng:** từ đợt điều chỉnh tháng 12/2026, cho năm 2026–2027. Từ năm 2028, khấu trừ cơ bản còn 99 man. **Người phụ thuộc ở Việt Nam** vẫn cần giấy quan hệ và giấy chuyển tiền.",
+ "todo":["Nộp tờ khai đúng hạn","Khai đủ người phụ thuộc","Giữ giấy chuyển tiền","Nhận gensen tháng 1"],
+ "cta":"Bố mẹ ở Việt Nam? Nhắn Anshin Care kiểm tra **hoàn thuế người phụ thuộc**.",
+ "source":"Nguồn: Cục Thuế Nhật Bản (nta.go.jp)"}

@@ -1,0 +1,35 @@
+name: dang-bai
+# 07:38 gio VN khoi dong, cho den dung 08:00 roi dang. 08:20 chay lai de bu neu lan dau bi tre/loi (khong dang trung).
+on:
+  schedule:
+    - cron: "38 0 * * *"
+    - cron: "20 1 * * *"
+  workflow_dispatch:
+    inputs:
+      date: {description: "Ngay (YYYY-MM-DD), de trong = hom nay", required: false, default: ""}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dang-bai
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_GROUP_ID: ${{ secrets.TELEGRAM_GROUP_ID }}
+      TELEGRAM_REVIEW_CHAT_ID: ${{ secrets.TELEGRAM_REVIEW_CHAT_ID }}
+      REVIEWERS: ${{ secrets.REVIEWERS }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Cho den 08:00 gio VN
+        if: github.event_name == 'schedule'
+        run: |
+          now=$(date -u +%s); target=$(date -u -d "$(date -u +%F) 01:00:00" +%s)
+          [ $now -lt $target ] && sleep $((target - now)) || true
+      - run: python3 scripts/review.py publish ${{ inputs.date }}
+      - run: scripts/commit.sh "dang bai"
