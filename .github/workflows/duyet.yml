@@ -16,6 +16,7 @@ concurrency:
 jobs:
   tick:
     runs-on: ubuntu-latest
+    environment: TELEGRAM_BOT_TOKEN   # ten moi truong chua 5 secrets
     timeout-minutes: 5
     env:
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
