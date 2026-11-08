@@ -59,6 +59,8 @@
 | 06.11 | 🏗️ LÀM XÂY DỰNG Ở NHẬT: ĐỪNG QUÊN TIỀN KENTAIKYO TRƯỚC KHI VỀ NƯỚC |
 | 07.11 | 🏥 VIỆN PHÍ CAO Ở NHẬT: CÓ MỨC TRẦN PHẢI TRẢ, TỪ 8/2026 THÊM TRẦN CẢ NĂM |
 | 07.11 | 🧾 PHIẾU LƯƠNG 2026: LƯƠNG BỊ TRỪ NHỮNG KHOẢN GÌ? CÓ KHOẢN MỚI TỪ THÁNG 5 |
+| 08.11 | 🏠 CHUYỂN NHÀ Ở NHẬT: 14 NGÀY PHẢI BÁO ĐỊA CHỈ MỚI, ĐỪNG ĐỂ LỠ THƯ THUẾ VÀ NENKIN |
+| 08.11 | 🤰 NGHỈ SINH CÓ BẢO HIỂM CÔNG TY: NHẬN THÊM KHOẢNG 2/3 LƯƠNG TRONG 98 NGÀY |
 
 Ghi chú: 4/11–5/11 bot không đăng bài (đổi tài khoản Claude). Từ 6/11 chạy hệ thống mới.
 
@@ -68,7 +70,8 @@ Ghi chú: 4/11–5/11 bot không đăng bài (đổi tài khoản Claude). Từ 
 - Nenkin: 5 điều kiện rút, nenkin lần 2 20,42%, 4 lỗi mất tiền, miễn nenkin nuôi con <1 tuổi, xử lý chậm, về Tết, tháng nenkin
 - Lao động: lương tối thiểu, quấy rối khách hàng, trợ cấp thất nghiệp, ốm nghỉ, bảo hiểm 20h/tuần, rōsai, hotline làm quá giờ, cấm làm quá 13 ngày, nghỉ phép, nghỉ việc chờ chỗ mới
 - Ikusei shūrō / tokutei: thay thực tập sinh 1/4/2027, phí phái cử và tiếng Nhật A1, thiếu giáo viên tiếng Nhật, ngành nhà hàng, đổi công ty, bếp suất ăn
-- Y tế, lương: kōgaku ryōyōhi (trần viện phí), các khoản trừ trên phiếu lương
+- Y tế, lương: kōgaku ryōyōhi (trần viện phí), các khoản trừ trên phiếu lương, tiền nghỉ sinh shussan teate
+- Thủ tục: chuyển nhà báo địa chỉ 14 ngày
 - Khác: trợ cấp sinh con 50 man, sinh con 3 hạn, thẻ cư trú + My Number, mất ví, miễn thuế du lịch, số người Việt 693.750, hướng dẫn tiếng Việt Cục XNC, Kentaikyo
 
 ## Ý tưởng chưa dùng
