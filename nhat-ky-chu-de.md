@@ -61,13 +61,15 @@
 | 07.11 | 🧾 PHIẾU LƯƠNG 2026: LƯƠNG BỊ TRỪ NHỮNG KHOẢN GÌ? CÓ KHOẢN MỚI TỪ THÁNG 5 |
 | 08.11 | 🏠 CHUYỂN NHÀ Ở NHẬT: 14 NGÀY PHẢI BÁO ĐỊA CHỈ MỚI, ĐỪNG ĐỂ LỠ THƯ THUẾ VÀ NENKIN |
 | 08.11 | 🤰 NGHỈ SINH CÓ BẢO HIỂM CÔNG TY: NHẬN THÊM KHOẢNG 2/3 LƯƠNG TRONG 98 NGÀY |
+| 09.11 | ⏰ CÒN 52 NGÀY: HOÀN THUẾ NĂM 2021 HẾT HẠN NGÀY 31/12/2026 |
+| 09.11 | 💴 KHÔNG ĐÓNG NỔI NENKIN QUỐC DÂN? XIN MIỄN GIẢM THAY VÌ ĐỂ NỢ |
 
 Ghi chú: 4/11–5/11 bot không đăng bài (đổi tài khoản Claude). Từ 6/11 chạy hệ thống mới.
 
 ## Nhóm chủ đề đã phủ (tránh lặp; ngày chính xác xem bảng trên)
 - Visa: phí gia hạn mới, nợ bảo hiểm/nenkin bị từ chối gia hạn, gia hạn xét thuế-bảo hiểm, thẻ cư trú hết hạn, quá hạn visa, vĩnh trú siết/hủy
-- Thuế: thuế 2026 khấu trừ tăng, nenmatsu chōsei, người phụ thuộc giấy tờ, tờ khai người phụ thuộc, gensen, jūminzei khi về nước, tự khai thuế, giấy chứng nhận đóng nenkin để giảm thuế
-- Nenkin: 5 điều kiện rút, nenkin lần 2 20,42%, 4 lỗi mất tiền, miễn nenkin nuôi con <1 tuổi, xử lý chậm, về Tết, tháng nenkin
+- Thuế: hạn hoàn thuế năm 2021 (31/12/2026), thuế 2026 khấu trừ tăng, nenmatsu chōsei, người phụ thuộc giấy tờ, tờ khai người phụ thuộc, gensen, jūminzei khi về nước, tự khai thuế, giấy chứng nhận đóng nenkin để giảm thuế
+- Nenkin: miễn giảm nenkin quốc dân, 5 điều kiện rút, nenkin lần 2 20,42%, 4 lỗi mất tiền, miễn nenkin nuôi con <1 tuổi, xử lý chậm, về Tết, tháng nenkin
 - Lao động: lương tối thiểu, quấy rối khách hàng, trợ cấp thất nghiệp, ốm nghỉ, bảo hiểm 20h/tuần, rōsai, hotline làm quá giờ, cấm làm quá 13 ngày, nghỉ phép, nghỉ việc chờ chỗ mới
 - Ikusei shūrō / tokutei: thay thực tập sinh 1/4/2027, phí phái cử và tiếng Nhật A1, thiếu giáo viên tiếng Nhật, ngành nhà hàng, đổi công ty, bếp suất ăn
 - Y tế, lương: kōgaku ryōyōhi (trần viện phí), các khoản trừ trên phiếu lương, tiền nghỉ sinh shussan teate
