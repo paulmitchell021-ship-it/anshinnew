@@ -63,6 +63,8 @@
 | 08.11 | 🤰 NGHỈ SINH CÓ BẢO HIỂM CÔNG TY: NHẬN THÊM KHOẢNG 2/3 LƯƠNG TRONG 98 NGÀY |
 | 09.11 | ⏰ CÒN 52 NGÀY: HOÀN THUẾ NĂM 2021 HẾT HẠN NGÀY 31/12/2026 |
 | 09.11 | 💴 KHÔNG ĐÓNG NỔI NENKIN QUỐC DÂN? XIN MIỄN GIẢM THAY VÌ ĐỂ NỢ |
+| 10.11 | 🛒 THUẾ TIÊU DÙNG ĐỒ ĂN CÓ THỂ GIẢM TỪ 8% XUỐNG 1% TỪ 1/4/2027 |
+| 10.11 | 👶 CON SỐNG Ở NHẬT: TRỢ CẤP NHI ĐỒNG ĐẾN 18 TUỔI, CON THỨ 3 NHẬN 3 MAN MỖI THÁNG |
 
 Ghi chú: 4/11–5/11 bot không đăng bài (đổi tài khoản Claude). Từ 6/11 chạy hệ thống mới.
 
@@ -74,11 +76,13 @@ Ghi chú: 4/11–5/11 bot không đăng bài (đổi tài khoản Claude). Từ 
 - Ikusei shūrō / tokutei: thay thực tập sinh 1/4/2027, phí phái cử và tiếng Nhật A1, thiếu giáo viên tiếng Nhật, ngành nhà hàng, đổi công ty, bếp suất ăn
 - Y tế, lương: kōgaku ryōyōhi (trần viện phí), các khoản trừ trên phiếu lương, tiền nghỉ sinh shussan teate
 - Thủ tục: chuyển nhà báo địa chỉ 14 ngày
-- Khác: trợ cấp sinh con 50 man, sinh con 3 hạn, thẻ cư trú + My Number, mất ví, miễn thuế du lịch, số người Việt 693.750, hướng dẫn tiếng Việt Cục XNC, Kentaikyo
+- Thuế tiêu dùng: miễn thuế du lịch, thuế đồ ăn 8%→1% từ 4/2027 (qua Hạ viện 6/11, chờ Thượng viện; theo dõi kết quả + mức hỗ trợ người đi làm)
+- Khác: trợ cấp nhi đồng jidō teate (mở rộng 10/2024), trợ cấp sinh con 50 man, sinh con 3 hạn, thẻ cư trú + My Number, mất ví, miễn thuế du lịch, số người Việt 693.750, hướng dẫn tiếng Việt Cục XNC, Kentaikyo
 
 ## Ý tưởng chưa dùng
 - Hướng dẫn đọc gensen mới tháng 1 (khi công ty phát)
 - Thai sản sinh ở Việt Nam: hồ sơ, dịch thuật (sản phẩm mới)
 - Kentaikyo: giấy tờ cần chuẩn bị, khách đã về nước
 - Furusato nōzei: người nước ngoài có nên làm
+- Bài dự phòng đã soạn sẵn (queue/ trên GitHub): mang tiền mặt về Tết, về Việt Nam sinh con 48,8 man
 - Câu chuyện khách thật (chờ sale gửi, đã ẩn danh)
