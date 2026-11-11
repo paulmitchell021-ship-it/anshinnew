@@ -65,24 +65,24 @@
 | 09.11 | 💴 KHÔNG ĐÓNG NỔI NENKIN QUỐC DÂN? XIN MIỄN GIẢM THAY VÌ ĐỂ NỢ |
 | 10.11 | 🛒 THUẾ TIÊU DÙNG ĐỒ ĂN CÓ THỂ GIẢM TỪ 8% XUỐNG 1% TỪ 1/4/2027 |
 | 10.11 | 👶 CON SỐNG Ở NHẬT: TRỢ CẤP NHI ĐỒNG ĐẾN 18 TUỔI, CON THỨ 3 NHẬN 3 MAN MỖI THÁNG |
+| 11.11 | 🛡️ CÓ CON DƯỚI 23 TUỔI: KHẤU TRỪ BẢO HIỂM NHÂN THỌ TĂNG TỪ 4 MAN LÊN 6 MAN TRONG NĂM 2026 |
+| 11.11 | 🎁 FURUSATO NŌZEI: NGƯỜI VIỆT CÓ NÊN LÀM? HẠN ONE-STOP 10/1/2027 |
 
 Ghi chú: 4/11–5/11 bot không đăng bài (đổi tài khoản Claude). Từ 6/11 chạy hệ thống mới.
 
 ## Nhóm chủ đề đã phủ (tránh lặp; ngày chính xác xem bảng trên)
 - Visa: phí gia hạn mới, nợ bảo hiểm/nenkin bị từ chối gia hạn, gia hạn xét thuế-bảo hiểm, thẻ cư trú hết hạn, quá hạn visa, vĩnh trú siết/hủy
-- Thuế: hạn hoàn thuế năm 2021 (31/12/2026), thuế 2026 khấu trừ tăng, nenmatsu chōsei, người phụ thuộc giấy tờ, tờ khai người phụ thuộc, gensen, jūminzei khi về nước, tự khai thuế, giấy chứng nhận đóng nenkin để giảm thuế
+- Thuế: hạn hoàn thuế năm 2021 (31/12/2026), thuế 2026 khấu trừ tăng, nenmatsu chōsei, người phụ thuộc giấy tờ, tờ khai người phụ thuộc, gensen, jūminzei khi về nước, tự khai thuế, giấy chứng nhận đóng nenkin để giảm thuế, khấu trừ bảo hiểm nhân thọ đặc biệt con <23 tuổi (chỉ năm 2026), furusato nōzei (one-stop 10/1)
 - Nenkin: miễn giảm nenkin quốc dân, 5 điều kiện rút, nenkin lần 2 20,42%, 4 lỗi mất tiền, miễn nenkin nuôi con <1 tuổi, xử lý chậm, về Tết, tháng nenkin
 - Lao động: lương tối thiểu, quấy rối khách hàng, trợ cấp thất nghiệp, ốm nghỉ, bảo hiểm 20h/tuần, rōsai, hotline làm quá giờ, cấm làm quá 13 ngày, nghỉ phép, nghỉ việc chờ chỗ mới
 - Ikusei shūrō / tokutei: thay thực tập sinh 1/4/2027, phí phái cử và tiếng Nhật A1, thiếu giáo viên tiếng Nhật, ngành nhà hàng, đổi công ty, bếp suất ăn
 - Y tế, lương: kōgaku ryōyōhi (trần viện phí), các khoản trừ trên phiếu lương, tiền nghỉ sinh shussan teate
 - Thủ tục: chuyển nhà báo địa chỉ 14 ngày
-- Thuế tiêu dùng: miễn thuế du lịch, thuế đồ ăn 8%→1% từ 4/2027 (qua Hạ viện 6/11, chờ Thượng viện; theo dõi kết quả + mức hỗ trợ người đi làm)
+- Thuế tiêu dùng: miễn thuế du lịch, thuế đồ ăn 8%→1% từ 4/2027 (qua Hạ viện 6/11, Thượng viện bắt đầu xét 11/11, kỳ họp đến 12/12; theo dõi kết quả + mức hỗ trợ người đi làm)
 - Khác: trợ cấp nhi đồng jidō teate (mở rộng 10/2024), trợ cấp sinh con 50 man, sinh con 3 hạn, thẻ cư trú + My Number, mất ví, miễn thuế du lịch, số người Việt 693.750, hướng dẫn tiếng Việt Cục XNC, Kentaikyo
 
 ## Ý tưởng chưa dùng
 - Hướng dẫn đọc gensen mới tháng 1 (khi công ty phát)
-- Thai sản sinh ở Việt Nam: hồ sơ, dịch thuật (sản phẩm mới)
 - Kentaikyo: giấy tờ cần chuẩn bị, khách đã về nước
-- Furusato nōzei: người nước ngoài có nên làm
 - Bài dự phòng đã soạn sẵn (queue/ trên GitHub): mang tiền mặt về Tết, về Việt Nam sinh con 48,8 man
 - Câu chuyện khách thật (chờ sale gửi, đã ẩn danh)
