@@ -67,6 +67,8 @@
 | 10.11 | 👶 CON SỐNG Ở NHẬT: TRỢ CẤP NHI ĐỒNG ĐẾN 18 TUỔI, CON THỨ 3 NHẬN 3 MAN MỖI THÁNG |
 | 11.11 | 🛡️ CÓ CON DƯỚI 23 TUỔI: KHẤU TRỪ BẢO HIỂM NHÂN THỌ TĂNG TỪ 4 MAN LÊN 6 MAN TRONG NĂM 2026 |
 | 11.11 | 🎁 FURUSATO NŌZEI: NGƯỜI VIỆT CÓ NÊN LÀM? HẠN ONE-STOP 10/1/2027 |
+| 12.11 | 🤰 CHI PHÍ SINH CON Ở NHẬT SẮP ĐỔI: SINH THƯỜNG CÓ THỂ KHÔNG PHẢI ỨNG TIỀN, KHOẢN 50 MAN SẼ THAY BẰNG KHOẢN MỚI |
+| 12.11 | 💴 VỀ TẾT MANG TIỀN MẶT: QUÁ 100 MAN PHẢI KHAI HẢI QUAN NHẬT, QUÁ 5.000 USD PHẢI KHAI Ở VIỆT NAM |
 
 Ghi chú: 4/11–5/11 bot không đăng bài (đổi tài khoản Claude). Từ 6/11 chạy hệ thống mới.
 
@@ -79,10 +81,12 @@ Ghi chú: 4/11–5/11 bot không đăng bài (đổi tài khoản Claude). Từ 
 - Y tế, lương: kōgaku ryōyōhi (trần viện phí), các khoản trừ trên phiếu lương, tiền nghỉ sinh shussan teate
 - Thủ tục: chuyển nhà báo địa chỉ 14 ngày
 - Thuế tiêu dùng: miễn thuế du lịch, thuế đồ ăn 8%→1% từ 4/2027 (qua Hạ viện 6/11, Thượng viện bắt đầu xét 11/11, kỳ họp đến 12/12; theo dõi kết quả + mức hỗ trợ người đi làm)
+- Thai sản: cải cách chi phí sinh con (bảo hiểm trả thẳng, 出産時一時金 mới; đang thảo luận, chốt mức tiền ~12/2026, theo dõi kết quả)
+- Về Tết: mang tiền mặt (100 man Nhật / 5.000 USD, 15 triệu đồng, 300g vàng VN), tiền mặt tận tay không tính giấy chuyển tiền người phụ thuộc
 - Khác: trợ cấp nhi đồng jidō teate (mở rộng 10/2024), trợ cấp sinh con 50 man, sinh con 3 hạn, thẻ cư trú + My Number, mất ví, miễn thuế du lịch, số người Việt 693.750, hướng dẫn tiếng Việt Cục XNC, Kentaikyo
 
 ## Ý tưởng chưa dùng
 - Hướng dẫn đọc gensen mới tháng 1 (khi công ty phát)
 - Kentaikyo: giấy tờ cần chuẩn bị, khách đã về nước
-- Bài dự phòng đã soạn sẵn (queue/ trên GitHub): mang tiền mặt về Tết, về Việt Nam sinh con 48,8 man
+- Bài dự phòng đã soạn sẵn (queue/ trên GitHub): về Việt Nam sinh con 48,8 man
 - Câu chuyện khách thật (chờ sale gửi, đã ẩn danh)
