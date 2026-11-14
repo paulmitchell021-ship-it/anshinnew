@@ -1,0 +1,19 @@
+{
+ "date": "2026-11-14",
+ "posts": {
+  "1": {
+   "status": "published",
+   "version": 1,
+   "source": "chat"
+  },
+  "2": {
+   "status": "published",
+   "version": 1,
+   "source": "chat"
+  }
+ },
+ "rejected": [],
+ "log": [
+  "2026-11-14 08:00 dang tu he thong chat"
+ ]
+}

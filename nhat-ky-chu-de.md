@@ -71,12 +71,14 @@
 | 12.11 | 💴 VỀ TẾT MANG TIỀN MẶT: QUÁ 100 MAN PHẢI KHAI HẢI QUAN NHẬT, QUÁ 5.000 USD PHẢI KHAI Ở VIỆT NAM |
 | 13.11 | 🤝 NGÀY 9/11/2026: NHẬT – VIỆT ĐÃ KÝ BẢN GHI NHỚ IKUSEI SHŪRŌ, CẤM MÔI GIỚI, PHÍ TỐI ĐA 2 THÁNG LƯƠNG |
 | 13.11 | 🧾 KHÁM BỆNH, SINH CON NĂM 2026 TỐN TRÊN 10 MAN? GIỮ HÓA ĐƠN ĐỂ ĐƯỢC HOÀN THUẾ |
+| 14.11 | 🧾 TỪ 1/1/2027: THUẾ TRỪ VÀO LƯƠNG THÁNG GIẢM NHẸ, PHIẾU LƯƠNG CÓ THÊM "THUẾ QUỐC PHÒNG" 1% |
+| 14.11 | 💴 THƯỞNG MÙA ĐÔNG (BONUS) BỊ TRỪ NHỮNG GÌ? 4 ĐIỀU CẦN BIẾT TRƯỚC KHI NHẬN |
 
 Ghi chú: 4/11–5/11 bot không đăng bài (đổi tài khoản Claude). Từ 6/11 chạy hệ thống mới.
 
 ## Nhóm chủ đề đã phủ (tránh lặp; ngày chính xác xem bảng trên)
 - Visa: phí gia hạn mới, nợ bảo hiểm/nenkin bị từ chối gia hạn, gia hạn xét thuế-bảo hiểm, thẻ cư trú hết hạn, quá hạn visa, vĩnh trú siết/hủy
-- Thuế: hạn hoàn thuế năm 2021 (31/12/2026), thuế 2026 khấu trừ tăng, nenmatsu chōsei, người phụ thuộc giấy tờ, tờ khai người phụ thuộc, gensen, jūminzei khi về nước, tự khai thuế, giấy chứng nhận đóng nenkin để giảm thuế, khấu trừ bảo hiểm nhân thọ đặc biệt con <23 tuổi (chỉ năm 2026), furusato nōzei (one-stop 10/1), khấu trừ chi phí y tế 医療費控除 (10 man/5%, giữ hóa đơn)
+- Thuế: hạn hoàn thuế năm 2021 (31/12/2026), thuế 2026 khấu trừ tăng, nenmatsu chōsei, người phụ thuộc giấy tờ, tờ khai người phụ thuộc, gensen, jūminzei khi về nước, tự khai thuế, giấy chứng nhận đóng nenkin để giảm thuế, khấu trừ bảo hiểm nhân thọ đặc biệt con <23 tuổi (chỉ năm 2026), furusato nōzei (one-stop 10/1), khấu trừ chi phí y tế 医療費控除 (10 man/5%, giữ hóa đơn), bảng gensen 2027 (thuế tháng giảm nhẹ từ 1/2027, thuế quốc phòng 1% + tái thiết 1,1% = 2,1%), thuế và bảo hiểm trên thưởng shōyo (tỷ lệ theo lương tháng trước, cột 乙 ≥10,21%, kōsei nenkin 150 man/tháng)
 - Nenkin: miễn giảm nenkin quốc dân, 5 điều kiện rút, nenkin lần 2 20,42%, 4 lỗi mất tiền, miễn nenkin nuôi con <1 tuổi, xử lý chậm, về Tết, tháng nenkin
 - Lao động: lương tối thiểu, quấy rối khách hàng, trợ cấp thất nghiệp, ốm nghỉ, bảo hiểm 20h/tuần, rōsai, hotline làm quá giờ, cấm làm quá 13 ngày, nghỉ phép, nghỉ việc chờ chỗ mới
 - Ikusei shūrō / tokutei: thay thực tập sinh 1/4/2027, phí phái cử và tiếng Nhật A1, MOC Nhật–Việt ký 9/11/2026 (công ty phái cử được đề cử, cấm môi giới/cọc, không buộc về nước vì mang thai; chờ Nhật công bố danh sách công ty đề cử), thiếu giáo viên tiếng Nhật, ngành nhà hàng, đổi công ty, bếp suất ăn
