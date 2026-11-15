@@ -73,13 +73,15 @@
 | 13.11 | 🧾 KHÁM BỆNH, SINH CON NĂM 2026 TỐN TRÊN 10 MAN? GIỮ HÓA ĐƠN ĐỂ ĐƯỢC HOÀN THUẾ |
 | 14.11 | 🧾 TỪ 1/1/2027: THUẾ TRỪ VÀO LƯƠNG THÁNG GIẢM NHẸ, PHIẾU LƯƠNG CÓ THÊM "THUẾ QUỐC PHÒNG" 1% |
 | 14.11 | 💴 THƯỞNG MÙA ĐÔNG (BONUS) BỊ TRỪ NHỮNG GÌ? 4 ĐIỀU CẦN BIẾT TRƯỚC KHI NHẬN |
+| 15.11 | 📊 NGƯỜI NƯỚC NGOÀI Ở NHẬT CHỈ ĐÓNG 55% NENKIN QUỐC DÂN, CẢ NƯỚC LÀ 85,6% |
+| 15.11 | 🏗️ RÚT TIỀN KENTAIKYO TRƯỚC KHI VỀ NƯỚC: CHUẨN BỊ ĐỦ 6 GIẤY TỜ, TIỀN VỀ SAU KHOẢNG 1 THÁNG |
 
 Ghi chú: 4/11–5/11 bot không đăng bài (đổi tài khoản Claude). Từ 6/11 chạy hệ thống mới.
 
 ## Nhóm chủ đề đã phủ (tránh lặp; ngày chính xác xem bảng trên)
 - Visa: phí gia hạn mới, nợ bảo hiểm/nenkin bị từ chối gia hạn, gia hạn xét thuế-bảo hiểm, thẻ cư trú hết hạn, quá hạn visa, vĩnh trú siết/hủy
 - Thuế: hạn hoàn thuế năm 2021 (31/12/2026), thuế 2026 khấu trừ tăng, nenmatsu chōsei, người phụ thuộc giấy tờ, tờ khai người phụ thuộc, gensen, jūminzei khi về nước, tự khai thuế, giấy chứng nhận đóng nenkin để giảm thuế, khấu trừ bảo hiểm nhân thọ đặc biệt con <23 tuổi (chỉ năm 2026), furusato nōzei (one-stop 10/1), khấu trừ chi phí y tế 医療費控除 (10 man/5%, giữ hóa đơn), bảng gensen 2027 (thuế tháng giảm nhẹ từ 1/2027, thuế quốc phòng 1% + tái thiết 1,1% = 2,1%), thuế và bảo hiểm trên thưởng shōyo (tỷ lệ theo lương tháng trước, cột 乙 ≥10,21%, kōsei nenkin 150 man/tháng)
-- Nenkin: miễn giảm nenkin quốc dân, 5 điều kiện rút, nenkin lần 2 20,42%, 4 lỗi mất tiền, miễn nenkin nuôi con <1 tuổi, xử lý chậm, về Tết, tháng nenkin
+- Nenkin: miễn giảm nenkin quốc dân, 5 điều kiện rút, nenkin lần 2 20,42%, 4 lỗi mất tiền, miễn nenkin nuôi con <1 tuổi, xử lý chậm, về Tết, tháng nenkin, tỷ lệ đóng nenkin quốc dân của người nước ngoài 55,0% (tiền năm 2023, báo cáo MHLW 7/2026, báo đưa tin 12/11)
 - Lao động: lương tối thiểu, quấy rối khách hàng, trợ cấp thất nghiệp, ốm nghỉ, bảo hiểm 20h/tuần, rōsai, hotline làm quá giờ, cấm làm quá 13 ngày, nghỉ phép, nghỉ việc chờ chỗ mới
 - Ikusei shūrō / tokutei: thay thực tập sinh 1/4/2027, phí phái cử và tiếng Nhật A1, MOC Nhật–Việt ký 9/11/2026 (công ty phái cử được đề cử, cấm môi giới/cọc, không buộc về nước vì mang thai; chờ Nhật công bố danh sách công ty đề cử), thiếu giáo viên tiếng Nhật, ngành nhà hàng, đổi công ty, bếp suất ăn
 - Y tế, lương: kōgaku ryōyōhi (trần viện phí), các khoản trừ trên phiếu lương, tiền nghỉ sinh shussan teate
@@ -87,10 +89,10 @@ Ghi chú: 4/11–5/11 bot không đăng bài (đổi tài khoản Claude). Từ 
 - Thuế tiêu dùng: miễn thuế du lịch, thuế đồ ăn 8%→1% từ 4/2027 (qua Hạ viện 6/11, Thượng viện bắt đầu xét 11/11, kỳ họp đến 12/12; theo dõi kết quả + mức hỗ trợ người đi làm)
 - Thai sản: cải cách chi phí sinh con (bảo hiểm trả thẳng, 出産時一時金 mới; đang thảo luận, chốt mức tiền ~12/2026, theo dõi kết quả)
 - Về Tết: mang tiền mặt (100 man Nhật / 5.000 USD, 15 triệu đồng, 300g vàng VN), tiền mặt tận tay không tính giấy chuyển tiền người phụ thuộc
-- Khác: trợ cấp nhi đồng jidō teate (mở rộng 10/2024), trợ cấp sinh con 50 man, sinh con 3 hạn, thẻ cư trú + My Number, mất ví, miễn thuế du lịch, số người Việt 693.750, hướng dẫn tiếng Việt Cục XNC, Kentaikyo
+- Khác: trợ cấp nhi đồng jidō teate (mở rộng 10/2024), trợ cấp sinh con 50 man, sinh con 3 hạn, thẻ cư trú + My Number, mất ví, miễn thuế du lịch, số người Việt 693.750, hướng dẫn tiếng Việt Cục XNC, Kentaikyo (6/11 tổng quan; 15/11 hồ sơ 6 giấy tờ, ≥12 tháng, 退職所得申告書 tránh trừ 20,42%, tiền về ~1 tháng, giữ tài khoản)
 
 ## Ý tưởng chưa dùng
 - Hướng dẫn đọc gensen mới tháng 1 (khi công ty phát)
-- Kentaikyo: giấy tờ cần chuẩn bị, khách đã về nước
+- Kentaikyo: khách đã về nước (giấy tờ đã dùng 15/11)
 - Bài dự phòng đã soạn sẵn (queue/ trên GitHub): về Việt Nam sinh con 48,8 man
 - Câu chuyện khách thật (chờ sale gửi, đã ẩn danh)
