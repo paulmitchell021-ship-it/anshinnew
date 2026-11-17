@@ -77,6 +77,8 @@
 | 15.11 | 🏗️ RÚT TIỀN KENTAIKYO TRƯỚC KHI VỀ NƯỚC: CHUẨN BỊ ĐỦ 6 GIẤY TỜ, TIỀN VỀ SAU KHOẢNG 1 THÁNG |
 | 16.11 | ❄️ ĐỀ XUẤT MỚI 13/11: LAO ĐỘNG XÂY DỰNG TOKUTEI GINŌ, IKUSEI SHŪRŌ CÓ THỂ ĐƯỢC GIAO DỌN TUYẾT, TỐI ĐA 1/3 GIỜ LÀM |
 | 16.11 | 👨‍👩‍👧 NGHỈ CHĂM CON Ở NHẬT: NHẬN 67% LƯƠNG, CẢ HAI VỢ CHỒNG CÙNG NGHỈ ĐƯỢC THÊM 13% TRONG 28 NGÀY |
+| 17.11 | 🚬 TỪ 1/4/2027: THUẾ THUỐC LÁ Ở NHẬT TĂNG 3 NĂM LIỀN, MỖI BAO THÊM 10 YÊN THUẾ MỖI NĂM |
+| 17.11 | ✈️ VỀ TẾT DƯỚI 1 NĂM: KHÔNG CẦN XIN PHÉP TÁI NHẬP CẢNH, NHỚ TÍCH Ô TRÊN THẺ ED |
 
 Ghi chú: 4/11–5/11 bot không đăng bài (đổi tài khoản Claude). Từ 6/11 chạy hệ thống mới.
 
@@ -87,7 +89,8 @@ Ghi chú: 4/11–5/11 bot không đăng bài (đổi tài khoản Claude). Từ 
 - Lao động: lương tối thiểu, quấy rối khách hàng, trợ cấp thất nghiệp, ốm nghỉ, bảo hiểm 20h/tuần, rōsai, hotline làm quá giờ, cấm làm quá 13 ngày, nghỉ phép, nghỉ việc chờ chỗ mới
 - Ikusei shūrō / tokutei: thay thực tập sinh 1/4/2027, phí phái cử và tiếng Nhật A1, MOC Nhật–Việt ký 9/11/2026 (công ty phái cử được đề cử, cấm môi giới/cọc, không buộc về nước vì mang thai; chờ Nhật công bố danh sách công ty đề cử), thiếu giáo viên tiếng Nhật, ngành nhà hàng, đổi công ty, bếp suất ăn, dọn tuyết là 関連業務 ngành xây dựng (đề xuất họp chuyên gia lần 16 ngày 13/11/2026: ≤1/3 giờ làm, đồng ý bằng văn bản, ikusei không làm một mình, tokutei một mình sau 3 mùa + B1; chưa quyết định, theo dõi)
 - Y tế, lương: kōgaku ryōyōhi (trần viện phí), các khoản trừ trên phiếu lương, tiền nghỉ sinh shussan teate, trợ cấp nghỉ chăm con ikuji kyūgyō kyūfu (67%/50%, +13% 出生後休業支援給付金 28 ngày, miễn BHXH)
-- Thủ tục: chuyển nhà báo địa chỉ 14 ngày
+- Thủ tục: chuyển nhà báo địa chỉ 14 ngày, minashi sainyūkoku khi về Tết (1 năm/hết visa, tích ô thẻ ED; 17/11)
+- Thuế thuốc lá: たばこ税 +0,5 yên/điếu ×3 lần 4/2027–4/2029 (tổng thuế/bao ~304,9→334,9 yên; NTA 2/11; 17/11)
 - Thuế tiêu dùng: miễn thuế du lịch, thuế đồ ăn 8%→1% từ 4/2027 (qua Hạ viện 6/11, Thượng viện bắt đầu xét 11/11, kỳ họp đến 12/12; theo dõi kết quả + mức hỗ trợ người đi làm)
 - Thai sản: cải cách chi phí sinh con (bảo hiểm trả thẳng, 出産時一時金 mới; đang thảo luận, chốt mức tiền ~12/2026, theo dõi kết quả)
 - Về Tết: mang tiền mặt (100 man Nhật / 5.000 USD, 15 triệu đồng, 300g vàng VN), tiền mặt tận tay không tính giấy chuyển tiền người phụ thuộc
